@@ -1,0 +1,527 @@
+09:59:17.443 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+09:59:18.825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+10:02:47.788 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+10:02:49.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+10:10:49.834 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+10:10:51.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+10:11:42.871 [TestNG-tests-1] INFO  TestCases.TC2_Login - ***Started login testcase***
+10:11:43.261 [TestNG-tests-1] INFO  TestCases.TC2_Login - ***clicked on My account***
+10:11:44.529 [TestNG-tests-1] INFO  TestCases.TC2_Login - ***clicked on Login button***
+10:12:29.480 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+10:12:30.573 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+10:12:41.940 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Starting TC1_Register Test***
+10:12:42.231 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on My account***
+10:12:43.245 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on Register***
+10:12:43.282 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Entering user details***
+10:12:45.320 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on checkbox***
+10:12:46.690 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on submit***
+10:12:46.826 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***finished registration.....***
+10:13:59.966 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+10:14:01.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+10:14:09.589 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Starting TC1_Register Test***
+10:14:10.183 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on My account***
+10:14:11.175 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on Register***
+10:14:11.185 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Entering user details***
+10:14:13.076 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on checkbox***
+10:14:14.406 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on submit***
+10:14:14.504 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***finished registration.....***
+10:14:22.408 [TestNG-tests-1] INFO  TestCases.TC2_Login - ***Started login testcase***
+10:14:22.825 [TestNG-tests-1] INFO  TestCases.TC2_Login - ***clicked on My account***
+10:14:23.425 [TestNG-tests-1] INFO  TestCases.TC2_Login - ***clicked on Login button***
+10:16:28.933 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+10:16:52.304 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Starting TC1_Register Test***
+10:16:52.538 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on My account***
+10:16:55.904 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on Register***
+10:16:55.909 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Entering user details***
+10:16:57.870 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on checkbox***
+10:16:59.929 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on submit***
+10:17:00.051 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***finished registration.....***
+10:17:10.735 [TestNG-tests-1] INFO  TestCases.TC2_Login - ***Started login testcase***
+10:17:10.924 [TestNG-tests-1] INFO  TestCases.TC2_Login - ***clicked on My account***
+10:17:11.602 [TestNG-tests-1] INFO  TestCases.TC2_Login - ***clicked on Login button***
+10:19:01.942 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+10:19:03.168 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+10:19:16.868 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Starting TC1_Register Test***
+10:19:17.114 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on My account***
+10:19:19.011 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on Register***
+10:19:19.014 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Entering user details***
+10:19:20.914 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on checkbox***
+10:19:22.530 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***Clicked on submit***
+10:19:22.639 [TestNG-tests-1] INFO  TestCases.TC1_Register - ***finished registration.....***
+10:24:14.560[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+10:24:15.688[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+10:24:42.496[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+10:24:42.718[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+10:24:49.314[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+10:24:49.340[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+10:24:51.247[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+10:24:52.927[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+10:24:53.017[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+13:44:43.681[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\master.xml"
+13:44:45.456[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\master.xml
+
+13:45:19.522[TestNG-tests-2]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+13:45:20.652[TestNG-tests-2]INFO TestCases.TC1_Register-***Clicked on My account***
+13:45:22.959[TestNG-tests-2]INFO TestCases.TC1_Register-***Clicked on Register***
+13:45:23.110[TestNG-tests-2]INFO TestCases.TC1_Register-***Entering user details***
+13:45:30.099[TestNG-tests-2]INFO TestCases.TC1_Register-***Clicked on checkbox***
+13:46:01.672[TestNG-tests-2]INFO TestCases.TC1_Register-***Clicked on submit***
+13:46:11.758[TestNG-tests-2]ERRORTestCases.TC1_Register-Test Failed.....
+13:47:19.226[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+13:47:19.569[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+13:47:51.865[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+13:47:51.865[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+13:47:54.600[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+13:47:57.929[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+13:47:58.092[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+13:48:15.116[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+13:48:15.366[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+13:48:16.255[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+14:00:28.731[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+14:00:30.750[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+14:00:42.602[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+14:00:43.117[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+14:00:44.144[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+14:00:44.172[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+14:00:46.392[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+14:00:47.272[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+14:00:47.364[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+14:00:56.704[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+14:00:56.953[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+14:00:57.418[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+14:06:23.364[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+14:06:24.767[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+14:06:38.111[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+14:06:38.624[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+14:06:40.242[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+14:06:40.251[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+14:06:43.069[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+14:06:45.865[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+14:06:45.981[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+14:06:57.150[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+14:06:57.652[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+14:06:58.541[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+14:10:44.582[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+14:10:46.402[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+14:11:00.163[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+14:11:00.717[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+14:11:02.655[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+14:11:02.662[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+14:11:05.249[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+14:11:07.911[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+14:11:08.023[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+14:11:18.762[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+14:11:19.581[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+14:11:20.488[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+14:11:37.237[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:37.255[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:39.485[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:39.488[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:39.684[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:39.687[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:39.835[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:39.852[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:39.975[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:39.997[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.106[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.112[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.240[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.242[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.358[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.367[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.478[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.481[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.551[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.562[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.645[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.646[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.690[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.691[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.726[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.728[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.785[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.786[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.815[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.817[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.862[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.863[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.907[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.942[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:40.973[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:40.974[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:41.023[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:41.024[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:41.160[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:11:41.162[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:11:41.230[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:11:41.659[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:11:42.717[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:11:55.171[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:11:55.434[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:11:56.744[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:12:01.013[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***Finished TC3_loginDDT***
+14:12:01.041[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:12:01.229[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:12:02.738[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:12:15.938[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***Finished TC3_loginDDT***
+14:12:15.954[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:12:16.607[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:12:18.054[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:12:30.146[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***Finished TC3_loginDDT***
+14:12:30.177[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:12:30.409[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:12:31.313[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:12:43.172[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***Finished TC3_loginDDT***
+14:12:43.218[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:12:43.412[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:12:44.947[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:15:38.319[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+14:15:39.701[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+14:15:52.639[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+14:15:52.932[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+14:15:54.716[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+14:15:54.725[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+14:15:57.554[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+14:15:58.629[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+14:15:58.734[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+14:16:11.115[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+14:16:11.485[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+14:16:12.338[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+14:50:31.996[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+14:50:33.547[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+14:50:57.562[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:50:57.584[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:50:59.566[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:50:59.570[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:50:59.679[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:50:59.681[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:50:59.800[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:50:59.804[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:00.066[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:00.071[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:00.280[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:00.286[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:00.365[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:00.371[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:00.466[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:00.472[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:00.539[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:00.545[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:00.616[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:00.626[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:00.754[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:00.769[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:00.858[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:00.860[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:00.953[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:00.956[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:01.035[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:01.038[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:01.105[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:01.106[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:01.153[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:01.159[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:01.285[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:01.286[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:01.353[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:01.354[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:01.418[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:01.420[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:01.493[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+14:51:01.495[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+14:51:01.578[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:51:01.961[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:51:02.763[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:51:15.418[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:51:15.782[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:51:17.770[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:51:24.233[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***Finished TC3_loginDDT***
+14:51:24.266[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:51:24.469[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:51:25.652[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:51:37.977[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***Finished TC3_loginDDT***
+14:51:37.993[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:51:38.300[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:51:39.652[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:51:51.576[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***Finished TC3_loginDDT***
+14:51:51.592[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:51:51.826[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:51:52.577[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:52:04.982[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***Finished TC3_loginDDT***
+14:52:05.045[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***TC3_loginDDT test case started***
+14:52:05.626[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on My account***
+14:52:06.389[TestNG-tests-1]INFO TestCases.TC3_loginDDT-***clicked on Login button***
+14:56:14.718[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+14:56:16.256[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+14:56:26.702[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+14:56:27.213[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+14:56:28.059[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+14:56:28.063[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+14:56:30.282[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+14:56:31.403[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+14:56:31.488[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+14:56:44.610[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+14:56:44.856[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+14:56:45.631[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+15:04:36.612[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+15:04:38.074[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+15:04:57.913[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+15:04:58.223[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+15:05:01.635[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+15:05:01.647[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+15:05:04.284[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+15:05:10.337[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+15:05:10.466[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+15:05:23.111[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+15:05:23.796[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+15:05:24.679[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+15:09:44.741[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+15:09:46.182[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+15:10:01.446[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+15:10:01.747[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+15:10:04.017[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+15:10:04.032[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+15:10:07.038[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+15:10:09.721[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+15:10:09.850[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+15:11:13.558[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+15:11:13.898[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+15:11:15.003[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+15:14:24.570[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml"
+15:14:26.194[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\grouping.xml
+
+15:14:50.039[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+15:14:50.465[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+15:14:51.593[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+19:02:21.427[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJ~1\AppData\Local\Temp\testng-eclipse--347289939\testng-customsuite.xml"
+19:02:22.788[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+19:02:22.850[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+19:02:22.857[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:22.857[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:22.858[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:22.859[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:22.860[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:22.863[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:22.884[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+19:02:22.998[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 114 ms.
+19:02:23.053[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:02:23.054[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:23.057[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:23.058[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:23.062[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:23.062[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:23.068[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:23.068[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:23.072[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:23.072[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:23.080[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:23.080[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:23.080[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:23.081[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:23.083[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:23.084[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:23.087[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:23.088[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:02:23.088[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:23.088[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:23.137[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\AppData\Local\Temp\testng-eclipse--347289939\testng-customsuite.xml
+
+19:02:23.281[main]INFO org.testng.internal.Utils-[Utils] DynamicGraphHelper.createDynamicGraph() took 43 ms.
+19:02:24.415[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.jq.Main@1968a49c: 394 ms
+19:02:24.489[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.FailedReporter@49ef32e0: 73 ms
+19:02:24.555[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.XMLReporter@3b65e559: 66 ms
+19:02:24.595[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@5a12c728: 37 ms
+19:02:24.613[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@117632cf: 18 ms
+19:02:24.613[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.internal.ExitCodeListener@2fb68ec6: 0 ms
+19:02:38.384[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJ~1\AppData\Local\Temp\testng-eclipse-442076886\testng-customsuite.xml"
+19:02:39.578[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:02:39.599[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+19:02:39.639[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.640[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.655[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.656[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.669[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.669[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.703[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 25 ms.
+19:02:39.774[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 69 ms.
+19:02:39.781[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+19:02:39.783[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.786[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.787[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.788[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.788[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.791[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.791[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.792[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.793[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.803[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.803[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.804[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.804[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.806[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.807[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:02:39.811[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.811[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.811[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:02:39.811[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:02:39.842[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\AppData\Local\Temp\testng-eclipse-442076886\testng-customsuite.xml
+
+19:02:39.921[main]INFO org.testng.internal.Utils-[Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+19:02:40.943[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.jq.Main@1968a49c: 493 ms
+19:02:41.061[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.FailedReporter@49ef32e0: 116 ms
+19:02:41.088[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.XMLReporter@3b65e559: 27 ms
+19:02:41.131[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@5a12c728: 43 ms
+19:02:41.144[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@492fc69e: 13 ms
+19:02:41.145[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.internal.ExitCodeListener@117632cf: 0 ms
+19:04:58.038[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+19:04:59.559[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml
+
+19:05:27.953[main]INFO TestCases.TC4_Checkin_Page-***TC4_order product ***
+19:05:28.387[main]INFO TestCases.TC4_Checkin_Page-***enetring values in search***
+19:05:29.531[main]INFO TestCases.TC4_Checkin_Page-***clicked on search button***
+19:09:44.311[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+19:09:45.553[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml
+
+19:09:58.080[main]INFO TestCases.TC4_Checkin_Page-***TC4_order product ***
+19:09:58.461[main]INFO TestCases.TC4_Checkin_Page-***enetring values in search***
+19:10:02.889[main]INFO TestCases.TC4_Checkin_Page-***clicked on search button***
+19:16:08.682[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+19:16:10.038[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml
+
+19:16:22.579[main]INFO TestCases.TC4_Checkin_Page-***TC4_order product ***
+19:16:23.091[main]INFO TestCases.TC4_Checkin_Page-***enetring values in search***
+19:16:25.570[main]INFO TestCases.TC4_Checkin_Page-***clicked on search button***
+19:16:28.873[main]INFO TestCases.TC4_Checkin_Page-***clicked on Mac button***
+19:16:29.061[main]INFO TestCases.TC4_Checkin_Page-***clicked on addTo cart button***
+19:34:22.476[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+19:34:23.766[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml
+
+19:34:36.926[main]INFO TestCases.TC4_Checkin_Page-***TC4_order product ***
+19:34:37.479[main]INFO TestCases.TC4_Checkin_Page-***enetring values in search***
+19:34:39.867[main]INFO TestCases.TC4_Checkin_Page-***clicked on search button***
+19:34:42.060[main]INFO TestCases.TC4_Checkin_Page-***clicked on Mac button***
+19:34:42.268[main]INFO TestCases.TC4_Checkin_Page-***clicked on addTo cart button***
+19:34:52.388[main]INFO TestCases.TC4_Checkin_Page-***Successfully got confirmation msg***
+19:34:55.859[main]INFO TestCases.TC4_Checkin_Page-***clicked on Checkout***
+19:38:55.138[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+19:38:56.637[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml
+
+19:39:12.523[main]INFO TestCases.TC4_Checkin_Page-***TC4_order product ***
+19:39:12.925[main]INFO TestCases.TC4_Checkin_Page-***enetring values in search***
+19:39:17.205[main]INFO TestCases.TC4_Checkin_Page-***clicked on search button***
+19:39:23.833[main]INFO TestCases.TC4_Checkin_Page-***clicked on Mac button***
+19:39:24.064[main]INFO TestCases.TC4_Checkin_Page-***clicked on addTo cart button***
+19:39:34.200[main]INFO TestCases.TC4_Checkin_Page-***Successfully got confirmation msg***
+19:39:36.447[main]INFO TestCases.TC4_Checkin_Page-***clicked on Checkout***
+19:39:39.136[main]INFO TestCases.TC4_Checkin_Page-***clicked on Continue and entering homepage***
+20:16:15.535[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+20:17:44.444[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+20:17:45.396[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml
+
+20:18:01.286[main]INFO TestCases.TC5_OrderHistory-***TC5 order History started***
+20:18:01.324[main]INFO TestCases.TC5_OrderHistory-**Started login ***
+20:20:42.790[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+20:20:43.753[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml
+
+20:20:55.201[main]INFO TestCases.TC5_OrderHistory-***TC5 order History started***
+20:20:55.243[main]INFO TestCases.TC5_OrderHistory-**Started login ***
+20:21:05.005[main]INFO TestCases.TC5_OrderHistory-**Entered email***
+20:21:05.284[main]INFO TestCases.TC5_OrderHistory-**Entered password***
+20:21:14.668[main]INFO TestCases.TC5_OrderHistory-**clicked login button ***
+20:21:16.164[main]INFO TestCases.TC5_OrderHistory-**verifying order history***
+20:21:16.242[main]INFO TestCases.TC5_OrderHistory-**Finished TC5_OrderHistory ***
+20:23:38.563[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+20:23:39.649[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml
+
+20:23:49.202[main]INFO TestCases.TC5_OrderHistory-***TC5 order History started***
+20:23:49.234[main]INFO TestCases.TC5_OrderHistory-**Started login ***
+20:25:01.126[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml"
+20:25:01.976[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\src\test\java\TestCases\testng.xml
+
+20:25:12.304[main]INFO TestCases.TC5_OrderHistory-***TC5 order History started***
+20:25:12.494[main]INFO TestCases.TC5_OrderHistory-***clicked on My account***
+20:25:13.064[main]INFO TestCases.TC5_OrderHistory-***clicked on Login button***
+20:25:13.067[main]INFO TestCases.TC5_OrderHistory-**Started login ***
+20:25:13.429[main]INFO TestCases.TC5_OrderHistory-**Entered email***
+20:25:13.801[main]INFO TestCases.TC5_OrderHistory-**Entered password***
+20:25:15.456[main]INFO TestCases.TC5_OrderHistory-**clicked login button ***
+20:25:15.867[main]INFO TestCases.TC5_OrderHistory-**verifying order history***
+20:25:15.967[main]INFO TestCases.TC5_OrderHistory-**Finished TC5_OrderHistory ***
+20:27:58.082[main]DEBUGorg.testng.TestNG-suiteXmlPath: "C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\master.xml"
+20:27:59.208[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\GANNAJI RAHUL\eclipse-workspace\TutorialsNinja\master.xml
+
+20:28:13.685[TestNG-tests-1]INFO TestCases.TC1_Register-***Starting TC1_Register Test***
+20:28:13.992[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on My account***
+20:28:16.938[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on Register***
+20:28:16.949[TestNG-tests-1]INFO TestCases.TC1_Register-***Entering user details***
+20:28:18.688[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on checkbox***
+20:28:20.276[TestNG-tests-1]INFO TestCases.TC1_Register-***Clicked on submit***
+20:28:20.369[TestNG-tests-1]INFO TestCases.TC1_Register-***finished registration.....***
+20:28:32.168[TestNG-tests-1]INFO TestCases.TC2_Login-***Started login testcase***
+20:28:32.299[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on My account***
+20:28:33.196[TestNG-tests-1]INFO TestCases.TC2_Login-***clicked on Login button***
+20:28:46.017[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+20:28:46.026[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+20:28:47.233[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+20:28:47.237[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+20:28:47.321[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+20:28:47.325[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+20:28:47.394[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+20:28:47.396[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+20:28:47.447[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+20:28:47.449[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+20:28:47.500[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+20:28:47.501[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+20:28:47.568[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+20:28:47.578[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+20:28:47.628[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+20:28:47.634[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+20:28:47.679[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+20:28:47.680[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+20:28:47.717[TestNG-tests-1]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
